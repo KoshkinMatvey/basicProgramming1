@@ -1,0 +1,14 @@
+if (root -> right)
+{
+    code.push_back(1);
+    Bulio Table(root -> right, code, table;
+    if (root -> symbo)
+	table[root ->symbo] = code;
+    if (code.size())
+	code.popback;
+}
+
+bool sortNode(const Node -> a, const Node -> b)
+{
+    return a -> count < b -> count;
+}
